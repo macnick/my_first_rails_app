@@ -1,11 +1,10 @@
 # A simple car database
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+It supports make, model, year. Basic CRUD operations.
 
 Things you may want to cover:
 
-- Ruby 2.6.5 
+- Ruby 2.6.5
 
 - System dependencies
 
